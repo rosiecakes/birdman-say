@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/birdman-say/precache-manifest.fa7101833f00115826f9b732c3506621.js"
+  "/birdman-say/precache-manifest.d4122402f21715ce759a7490daa9f9f9.js"
 );
 
 self.addEventListener('message', (event) => {

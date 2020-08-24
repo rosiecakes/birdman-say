@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/birdman-say/static/css/main.969e1118.chunk.css",
-    "main.js": "/birdman-say/static/js/main.a2f4949e.chunk.js",
-    "main.js.map": "/birdman-say/static/js/main.a2f4949e.chunk.js.map",
+    "main.css": "/birdman-say/static/css/main.ce14c6a9.chunk.css",
+    "main.js": "/birdman-say/static/js/main.2b1bc016.chunk.js",
+    "main.js.map": "/birdman-say/static/js/main.2b1bc016.chunk.js.map",
     "runtime-main.js": "/birdman-say/static/js/runtime-main.2ffaedfa.js",
     "runtime-main.js.map": "/birdman-say/static/js/runtime-main.2ffaedfa.js.map",
     "static/js/2.43884e1e.chunk.js": "/birdman-say/static/js/2.43884e1e.chunk.js",
     "static/js/2.43884e1e.chunk.js.map": "/birdman-say/static/js/2.43884e1e.chunk.js.map",
     "index.html": "/birdman-say/index.html",
-    "precache-manifest.fa7101833f00115826f9b732c3506621.js": "/birdman-say/precache-manifest.fa7101833f00115826f9b732c3506621.js",
+    "precache-manifest.d4122402f21715ce759a7490daa9f9f9.js": "/birdman-say/precache-manifest.d4122402f21715ce759a7490daa9f9f9.js",
     "service-worker.js": "/birdman-say/service-worker.js",
-    "static/css/main.969e1118.chunk.css.map": "/birdman-say/static/css/main.969e1118.chunk.css.map",
+    "static/css/main.ce14c6a9.chunk.css.map": "/birdman-say/static/css/main.ce14c6a9.chunk.css.map",
     "static/js/2.43884e1e.chunk.js.LICENSE.txt": "/birdman-say/static/js/2.43884e1e.chunk.js.LICENSE.txt",
     "static/media/Harvey280.jpg": "/birdman-say/static/media/Harvey280.dae54c69.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2ffaedfa.js",
     "static/js/2.43884e1e.chunk.js",
-    "static/css/main.969e1118.chunk.css",
-    "static/js/main.a2f4949e.chunk.js"
+    "static/css/main.ce14c6a9.chunk.css",
+    "static/js/main.2b1bc016.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0de63266f3022e52fe9d79bc2018e1af",
+    "revision": "fe233dd4a3801dd8cda20a7822a59696",
     "url": "/birdman-say/index.html"
   },
   {
-    "revision": "81c41d5fab1166a225cb",
-    "url": "/birdman-say/static/css/main.969e1118.chunk.css"
+    "revision": "b0bd4c2fe35a0343af14",
+    "url": "/birdman-say/static/css/main.ce14c6a9.chunk.css"
   },
   {
     "revision": "5631472e49171eb23c70",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birdman-say/static/js/2.43884e1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81c41d5fab1166a225cb",
-    "url": "/birdman-say/static/js/main.a2f4949e.chunk.js"
+    "revision": "b0bd4c2fe35a0343af14",
+    "url": "/birdman-say/static/js/main.2b1bc016.chunk.js"
   },
   {
     "revision": "35dab696730057e3fef1",
