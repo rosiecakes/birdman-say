@@ -43,10 +43,10 @@ class Quote extends React.Component {
 
   render() {
     if (this.state.quote === '') {
-      return <button onClick={this.setQuote} className="mt-6 button is-primary is-medium">Get Legal Advice</button>
+      return <button onClick={this.setQuote} className="button is-primary is-medium">Get Legal Advice</button>
     }
     return (
-      <div className="card mt-6">
+      <div className="card">
         <div className="card-content">
           <div className="content">
           {this.state.quote}
