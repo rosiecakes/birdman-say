@@ -7,8 +7,7 @@ function App() {
   return (
     <div className="App container has-text-centered">
       <header className="App-header">
-        <Quote />      
-        <Birdman />
+        <Quote />
       </header>
     </div>
   )
